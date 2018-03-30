@@ -1,4 +1,4 @@
-# AggiCraft-RPG
-AggiCraft RPG BugTracker
+# AggiCraft
+AggiCraft BugTracker
 
-BugTracking for the AggiCraft RPG Pack
+BugTracking for the AggiCraft Classic Pack
